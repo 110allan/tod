@@ -5,7 +5,7 @@ a tiny tool for kmer analysis
 git clone https://github.com/110allan/tod.git <br>
 cd tod <br>
 make <br>
-./make -h <br>
+make -h <br>
 Program: tod (Tools for kmer analysis) <br>
 Version: 0.0.1 <br>
 <br>

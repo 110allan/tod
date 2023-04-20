@@ -8,10 +8,11 @@ make <br>
 ./make -h <br>
 Program: tod (Tools for kmer analysis) <br>
 Version: 0.0.1 <br>
-
+<br>
 Usage:   tod <command> [options]
-
-Command: count            count kmers <br>
+<br>
+Command: <br>
+         count            count kmers <br>
          dump             dump kmers in a format :k-mer counts [counts...] <br>
          group            group multiple kmer files<br>
          intersect        intersection of multiple kmer files<br>
